@@ -1,1 +1,1 @@
-# Private2025
+# Private2025initialize app configuration
