@@ -8,3 +8,4 @@ let counter = 0;
 <button onclick='submitForm()'>Submit</button>
 axios.get('/api/data')
 SELECT COUNT(*) FROM orders;
+# Deployment Steps
